@@ -16,6 +16,9 @@ It recreates the familiar layout including:
 
 - Interactive hover tooltips and realistic styling that mimic the real site’s behavior
 
+## Live Demo
+👉 [Live Demo](https://felixjackquinkwokkenzi.github.io/youtube-clone-html-css/)
+
 ## ✨ Features
 
 - ✅ Realistic YouTube homepage layout
@@ -51,7 +54,7 @@ It demonstrates key front-end concepts such as:
 
 ## 🏁 Credits
 
-- Original design inspiration: SuperSimpleDev (https://www.youtube.com/watch?v=G3e-cpL7ofc)
+- Original design inspiration: [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
 - Recreated and customized by: felix kenzi
 
